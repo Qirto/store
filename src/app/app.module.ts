@@ -24,7 +24,7 @@ import { FAQComponent } from './faq/faq.component';
     ShopComponent,
     CartComponent,
     UserAccountComponent,
-    FAQComponent
+    FAQComponent,
   ],
   imports: [
     BrowserModule,
